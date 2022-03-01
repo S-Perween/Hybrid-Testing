@@ -5,10 +5,6 @@ Hybrid Framework Using Selenium Webdriver
 
 <ul>
 <li>
-Created object repository.
-</li>
-  
-<li>
 Created test scripts for a specific webpage.
 </li>
   
